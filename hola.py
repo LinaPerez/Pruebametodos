@@ -1,1 +1,1 @@
-print ola ke ase?
+print" ola ke ase?"
